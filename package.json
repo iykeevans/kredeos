@@ -1,5 +1,5 @@
 {
-  "name": "nestjs-turbo",
+  "name": "kredeos",
   "private": true,
   "scripts": {
     "build": "turbo build",
